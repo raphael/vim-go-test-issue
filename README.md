@@ -2,7 +2,7 @@
 
 Steps:
 
-1. go get github.com/raphael/vim-go-test-issue
-2. cd $GOPATH/src/github.com/raphael/vim-go-test-issue
-3. vi .
-4. :GoTest
+1. `go get github.com/raphael/vim-go-test-issue/...`
+2. `cd $GOPATH/src/github.com/raphael/vim-go-test-issue`
+3. `vi .`
+4. `:GoTest`
